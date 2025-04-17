@@ -1,0 +1,50 @@
+{
+    "name": "Bound Source",
+    "identifier": "com.cloudysnowx.bound",
+    "sourceURL": "https://tinyurl.com/BoundSource",
+    "subtitle": "iOS Discord Tweak",
+    "description": "Also known as Revenge, a client modification for Discord mobile.",
+    "iconURL": "https://raw.githubusercontent.com/CloudySnowX/BoundTweak/refs/heads/main/assets/logo/icon.png",
+    "headerURL": "https://raw.githubusercontent.com/PowerHubApp/PowerHubApp.github.io/refs/heads/main/assets/logo/photo-output.png",
+    "website": "https://github.com/CloudySnowX/BoundTweak/",
+    "tintColor": "#A04048",
+    "featuredApps": [
+        "com.hammerandchisel.discord"
+    ],
+    "apps": [
+        {
+            "name": "Bound for Discord",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "CloudySnowX",
+						"subtitle": "iOS Discord Tweak",
+            "localizedDescription": "A client modification for Discord iOS.",
+            "iconURL": "https://raw.githubusercontent.com/CloudySnowX/BoundTweak/refs/heads/main/assets/logo/icon.png",
+            "tintColor": "#A04048",
+            "category": "Tweaked Apps",
+						"version" : "272.0",
+						"versionDate" : "2025-04-05",
+						"downloadURL" : "https://github.com/CloudySnowX/BoundTweak/releases/download/v272.0/Bound-NoTrackRC1.ipa",
+						"versionDescription" : "• Updated to Discord v272.0 Stable",
+						"changelog": "• Updated to Discord v272.0 Stable",
+						"size" : 84200000,
+						"bundleID":
+						"com.hammerandchisel.discord",
+						"appstore": "com.hammerandchisel.discord",
+            "screenshots": [
+                "https://raw.githubusercontent.com/PowerHubApp/PowerHubApp.github.io/refs/heads/main/assets/screenshots/4.PNG",
+                "https://raw.githubusercontent.com/PowerHubApp/PowerHubApp.github.io/refs/heads/main/assets/screenshots/3.PNG",
+		"https://raw.githubusercontent.com/PowerHubApp/PowerHubApp.github.io/refs/heads/main/assets/screenshots/2.PNG",
+		"https://raw.githubusercontent.com/PowerHubApp/PowerHubApp.github.io/refs/heads/main/assets/screenshots/1.PNG",
+            ],
+            "versions": [
+                {
+                    "version": "272.0",
+                    "date": "2025-04-05",
+                    "size": 84200000,
+                    "downloadURL": "https://github.com/CloudySnowX/BoundTweak/releases/download/v272.0/Bound-NoTrackRC1.ipa",
+                    "localizedDescription": "Download v272.0 stable version here. Preinjected with DiscordNoTrack and OpenInDiscord",
+                }
+            ]
+        }
+    ]
+}
