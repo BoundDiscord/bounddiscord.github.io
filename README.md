@@ -2,7 +2,7 @@
 	
 <p style="display: block; margin: 0 auto; width: 100%; max-width: 500px; height: auto;"><picture><source media="(prefers-color-scheme: dark)" srcset="/assets/wordmark/dark.svg"><img src="/assets/wordmark light.svg" alt="BoundTweak Logo"></picture></p>
 
-<h1><span style="border-radius: 10px; height:1.2em; width:auto; margin: auto;"><img src="/assets/logo/icon.png"></span>BoundTweak!</h1>
+<span style="border-radius: 10px; height:1.2em; width:auto; margin: auto;"><img src="/assets/logo/icon.png"></span><h1>BoundTweak!</h1>
 
 <small>by <a href="https://github.com/CloudySnowX">CloudySnowX</a></small>
 
