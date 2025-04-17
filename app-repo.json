@@ -1,11 +1,11 @@
 {
     "name": "Bound Source",
     "identifier": "com.cloudysnowx.bound",
-    "sourceURL": "https://tinyurl.com/BoundSource",
+    "sourceURL": "https://tinyurl.com/boundjson",
     "subtitle": "iOS Discord Tweak",
     "description": "Also known as Revenge, a client modification for Discord mobile.",
-    "iconURL": "https://raw.githubusercontent.com/CloudySnowX/BoundTweak/refs/heads/main/assets/logo/icon.png",
-    "headerURL": "https://raw.githubusercontent.com/PowerHubApp/PowerHubApp.github.io/refs/heads/main/assets/logo/photo-output.png",
+    "iconURL": "https://bounddiscord.github.io/assets/logo/icon.png",
+    "headerURL": "https://bounddiscord.github.io/assets/logo/photo-output.png",
     "website": "https://github.com/CloudySnowX/BoundTweak/",
     "tintColor": "#A04048",
     "featuredApps": [
@@ -18,7 +18,7 @@
             "developerName": "CloudySnowX",
 						"subtitle": "iOS Discord Tweak",
             "localizedDescription": "A client modification for Discord iOS.",
-            "iconURL": "https://raw.githubusercontent.com/CloudySnowX/BoundTweak/refs/heads/main/assets/logo/icon.png",
+            "iconURL": "https://bounddiscord.github.io/assets/logo/icon.png",
             "tintColor": "#A04048",
             "category": "Tweaked Apps",
 						"version" : "272.0",
@@ -30,12 +30,6 @@
 						"bundleID":
 						"com.hammerandchisel.discord",
 						"appstore": "com.hammerandchisel.discord",
-            "screenshots": [
-                "https://raw.githubusercontent.com/PowerHubApp/PowerHubApp.github.io/refs/heads/main/assets/screenshots/4.PNG",
-                "https://raw.githubusercontent.com/PowerHubApp/PowerHubApp.github.io/refs/heads/main/assets/screenshots/3.PNG",
-		"https://raw.githubusercontent.com/PowerHubApp/PowerHubApp.github.io/refs/heads/main/assets/screenshots/2.PNG",
-		"https://raw.githubusercontent.com/PowerHubApp/PowerHubApp.github.io/refs/heads/main/assets/screenshots/1.PNG",
-            ],
             "versions": [
                 {
                     "version": "272.0",
